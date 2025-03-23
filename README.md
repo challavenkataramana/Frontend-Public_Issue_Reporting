@@ -5,5 +5,5 @@ The application includes features like issue reporting with descriptions and ima
 The frontend is built using React.js  and Tailwind CSS, while the backend is developed with Node.js, Express.js, and MongoDB. The database is hosted on MongoDB Atlas for secure and scalable data management.
 
 You can find the repositories here:
-Frontend: https://github.com/challavenkataramana/Public_Issue_Reporting_Frontend
+Frontend: https://github.com/challavenkataramana/Frontend-Public_Issue_Reporting
 Backend: https://github.com/challavenkataramana/Backend-Public_Issue_Reporting 
